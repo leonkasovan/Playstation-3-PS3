@@ -6,3 +6,10 @@ https://www.ps3xploit.me/
 
 RetroArch on PS3  
 https://github.com/crystalct/RetroArch_PSX_CE
+
+Install HFW 4.90   
+https://www.psx-place.com/threads/hfw-4-90-1-hybrid-firmware.39758/  
+Download: https://mega.nz/file/PVRWULBQ#YMRfhIn6owEzXYTHZR4l_hiiRKr7BvtJWfWbO-IcEDw
+All Games will be wiped out.
+
+
