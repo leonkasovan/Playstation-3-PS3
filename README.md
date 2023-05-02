@@ -6,6 +6,7 @@ https://www.ps3xploit.me/
 
 RetroArch on PS3  
 https://github.com/crystalct/RetroArch_PSX_CE
+Cores https://xbins.org/libretro/nightly/playstation/ps3/latest/cex-ps3/  
 
 Install HFW 4.90   
 Source: https://www.psx-place.com/threads/hfw-4-90-1-hybrid-firmware.39758/  
